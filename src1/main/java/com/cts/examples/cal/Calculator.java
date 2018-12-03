@@ -2,10 +2,7 @@ package com.cts.examples.cal;
 
 public class Calculator implements ICalculator {
 
-	public int sum(int a, int b) {
-		
-	}
-	 
+	
 	public int subtraction(int a, int b) {
 	       return a - b;
 	}
