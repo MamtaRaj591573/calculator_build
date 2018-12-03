@@ -3,9 +3,9 @@ package com.cts.examples.cal;
 public class Calculator implements ICalculator {
 
 	
-	public int subtraction(int a, int b) {
+	
 	       return a - b;
-	}
+	
 	 
 	public int multiplication(int a, int b) {
 		 
